@@ -1,0 +1,11 @@
+# Notas:
+
+Este es un servidor de express con mongoDB.
+
+Recuerdar reconstruir los módulos de node con el comando
+
+```
+npm install
+```
+
+Crea la carpeta de distribución para usar en servidor backend
